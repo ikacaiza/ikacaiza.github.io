@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ikacaiza.github.io/GFq/sitemap_index.txt
+Sitemap: https://ikacaiza.github.io/Moh/sitemap_index.txt
+Sitemap: https://ikacaiza.github.io/TnR/sitemap_index.txt
+Sitemap: https://ikacaiza.github.io/hHD/sitemap_index.txt
